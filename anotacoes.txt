@@ -1,0 +1,8 @@
+dúvidas:
+
+como retornar para um commit A, caso eu já esteja em D?
+
+Se eu estou na v1, alguém altera o arquivo A e sobe uma V2, eu altero o B e quero subir uma V3, o que devo fazer?
+É possível baixar as alterações da pessoa no meu? ( na aula fiz um git fetche e perdi minhas alterações.)
+
+E se tivermos alterado o mesmo arquivo?
